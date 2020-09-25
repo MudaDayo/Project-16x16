@@ -22,6 +22,7 @@ First, join our [Discord server](https://discord.gg/zDJSCqd) this is where anyth
 The goal of the project is to create an amazing video game with processing to make people go WOW. We are going the extra mile to show what can be achieved with processing and to understand from A to Z how we made it. We are building a big project from scratch to inspire others.  
 
 > Contribution to an open source project is a great element to display on your portfolio
+> It's very cool, very swag, and I like it!
 
 ## Concept
 Art by 0x72 (more [here](https://0x72.itch.io/16x16-industrial-tileset)).
